@@ -1,0 +1,55 @@
+text {
+    font-family: Helvetica, Arial, sans;
+    font-size: 12px;
+}
+
+line, path {
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+rect.background {
+    fill: rgb(247, 247, 247);
+}
+
+path.background-border {
+    fill: none;
+}
+
+.tick line {
+    stroke: none;
+}
+
+.grid line {
+    stroke: rgb(217, 217, 217);
+}
+
+.waveform path {
+    fill: none;
+    stroke: rgb(0, 130, 233);
+    stroke-width: 2px;
+    stroke-linecap: round;
+    shape-rendering: geometricPrecision;
+}
+
+rect.recession {
+    fill: rgb(214, 206, 194);
+}
+
+rect.legend-plate {
+    fill: white;
+    fill-opacity: 0.85;
+}
+
+rect.legend-waveform {
+    fill: rgb(0, 130, 233);
+}
+
+rect.legend-recession {
+    fill: rgb(214, 206, 194);
+}
+
+.legend text {
+    text-anchor: end;
+}
+

@@ -1,0 +1,79 @@
+[
+    {
+        "code": "ATL",
+        "name": "Hartsfield-Jackson Atlanta International Airport",
+        "movements2015": 882497,
+        "latitude": 33.63666667,
+        "longitude": -84.42805556
+    },
+    {
+        "code": "ORD",
+        "name": "O'Hare International Airport",
+        "movements2015": 875136,
+        "latitude": 41.97861111,
+        "longitude": -87.90472222
+    },
+    {
+        "code": "DFW",
+        "name": "Dallas/Fort Worth International Airport",
+        "movements2015": 681244,
+        "latitude": 32.89694444,
+        "longitude": -97.03805556
+    },
+    {
+        "code": "LAX",
+        "name": "Los Angeles International Airport",
+        "movements2015": 655564,
+        "latitude": 33.9425,
+        "longitude": -118.4080556
+    },
+    {
+        "code": "DEN",
+        "name": "Denver International Airport",
+        "movements2015": 541213,
+        "latitude": 39.86166667,
+        "longitude": -104.6730556
+    },
+    {
+        "code": "CLT",
+        "name": "Charlotte Douglas International Airport",
+        "movements2015": 540944,
+        "latitude": 35.21388889,
+        "longitude": -80.94305556
+    },
+    {
+        "code": "LAS",
+        "name": "McCarran International Airport",
+        "movements2015": 522399,
+        "latitude": 36.08,
+        "longitude": -115.1522222
+    },
+    {
+        "code": "IAH",
+        "name": "George Bush Intercontinental Airport",
+        "movements2015": 502844,
+        "latitude": 29.98444444,
+        "longitude": -95.34138889
+    },
+    {
+        "code": "PHX",
+        "name": "Phoenix Sky Harbor International Airport",
+        "movements2015": 439035,
+        "latitude": 33.43416667,
+        "longitude": -112.0116667
+    },
+    {
+        "code": "JFK",
+        "name": "John F. Kennedy International Airport",
+        "movements2015": 438448,
+        "latitude": 40.63972222,
+        "longitude": -73.77888889
+    },
+    {
+        "code": "SFO",
+        "name": "San Francisco International Airport",
+        "movements2015": 429815,
+        "latitude": 37.61888889,
+        "longitude": -122.375
+    }
+]

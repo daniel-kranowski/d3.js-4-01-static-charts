@@ -1,0 +1,54 @@
+text {
+    font-family: Arial, Helvetica, sans;
+    font-size: 12px;
+}
+
+#svg8 path {
+    fill: lightgray;
+    stroke: white;
+    stroke-width: 0.05px;
+    shape-rendering: crispEdges;
+}
+
+.airport circle,
+.legend circle {
+    fill: orange;
+    stroke: rgb(41, 43, 45);
+}
+
+.airport text,
+text.airport-hidden {
+    text-anchor: middle;
+}
+
+.airport rect.plate {
+    fill: white;
+    fill-opacity: 0.85;
+}
+
+.routes path {
+    stroke-width: 1px;
+    fill: none;
+}
+
+path.westward {
+    stroke: blue;
+}
+
+path.eastward {
+    stroke: green;
+}
+
+rect.westward {
+    fill: blue;
+}
+
+rect.eastward {
+    fill: green;
+}
+
+text.chartTitle {
+    text-anchor: middle;
+    font-size: 20px;
+    font-weight: bold;
+}

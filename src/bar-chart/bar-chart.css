@@ -1,0 +1,70 @@
+text {
+    font-family: Helvetica, Arial, sans;
+    font-size: 12px;
+}
+
+line {
+    stroke: black;
+}
+
+.yDashed .tick text {
+    display: none;
+}
+
+.yDashed .tick line {
+    stroke: url(#dashed-line);
+}
+
+.xAxis text {
+    font-weight: bold;
+}
+
+.bars rect {
+    stroke: rgb(40, 42, 44);
+    stroke-width: 0.5px;
+}
+
+rect.Apple {
+    fill: rgb(153, 0, 0);
+}
+
+rect.Banana {
+    fill: rgb(209, 209, 0);
+}
+
+rect.Peach {
+    fill: rgb(229, 188, 112);
+}
+
+rect.Orange {
+    fill: rgb(234, 151, 0);
+}
+
+rect.Lime {
+    fill: rgb(7, 127, 7);
+}
+
+.scoreToday text {
+    text-anchor: middle;
+    font-weight: bold;
+}
+
+.scoreLastYear text {
+    font-style: italic;
+}
+
+text#chartTitle {
+    text-anchor: middle;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+text#yTitle {
+    text-anchor: middle;
+    font-weight: bold;
+}
+
+text#footnote {
+    text-anchor: middle;
+    font-size: 10px;
+}
